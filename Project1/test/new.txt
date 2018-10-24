@@ -1,5 +1,3 @@
 this is new file to remote server.
-<<<<<<< HEAD
 adding another line from second machine.
-=======
->>>>>>> 432e929e0821d2dd877cf968881ba0cfabf5637f
+
